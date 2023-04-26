@@ -1,7 +1,7 @@
 # simple-language-models
 
 Name: Trang Dang
-Course: CS301 - Intro to Data Science
+<br> Course: CS301 - Intro to Data Science
 
 The experiment I have when building language model(s) using JAX and Flax. In JAX, I implemented a Multi-Layered Perceptron (MLP) model (Part 1) and a Bigram Language Model (Part 2a). In Flax, I built an MLP language model as well (Part 2b).
 
