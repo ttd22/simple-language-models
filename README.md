@@ -1,5 +1,8 @@
 # simple-language-models
 
+Name: Trang Dang
+Course: CS301 - Intro to Data Science
+
 The experiment I have when building language model(s) using JAX and Flax. In JAX, I implemented a Multi-Layered Perceptron (MLP) model (Part 1) and a Bigram Language Model (Part 2a). In Flax, I built an MLP language model as well (Part 2b).
 
 A language model is a statistical model that is used to predict the probability of a sequence of words occurring in a given language. It is trained on a large corpus of text and is used to generate new text or to evaluate the probability of a given sequence of words. A simple language model, such as the Bigram Language Model I built in JAX, predicts the probability of the next character in a name based only on the previous characters. The MLP language model I built in Flax is more complex, using multiple layers of neurons to predict the probability of the next character in a name based on the context of the entire names data set. While the author uses the micrograd library to implement MLP, I replicate it using the gradient facilities provided by JAX.
